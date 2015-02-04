@@ -1,0 +1,48 @@
+body {
+	background-image:url("http://static1.grsites.com/archive/textures/beige/beige001.jpg");
+}
+
+div {
+	width:300px;
+	padding:10px;
+	border: double black 5px;
+	margin:10px;
+	text-align: center;
+}
+
+img.resumephoto {
+	width:235px;
+	height:350px;
+	float:right;
+}
+
+h2 {
+	text-decoration:underline;
+}
+
+dt.title{
+	font-size:1.25em;
+
+}
+
+dd.date{ 
+	float:right;
+	font-weight: bold;
+}
+
+dd.description{
+	font-style:italic;
+}
+
+img.brookings{
+	float:right;
+	width:250px;
+	height:200px;
+}
+
+dl.skills{
+	padding:10px;
+	border:groove red 6px;
+	margin:10px;
+
+}
